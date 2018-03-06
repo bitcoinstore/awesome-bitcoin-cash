@@ -93,6 +93,7 @@
 
 - [BitcoinPlug](http://www.newsbtc.com/2017/11/03/bitcoinplug-will-enable-bitcoin-cash-los-angeles-atms-soon/) (Los Angeles)
 - [Genesis Block](https://www.genesisblockhk.com/) (Hong Kong)
+- [Athena Bitcoin](https://www.athenabitcoin.com) (USA and Mexico)
 
 ### Marketplaces
 
@@ -102,6 +103,7 @@
 
 ### Gambling
 
+- [Bitcoin.com Cash Games](https://cashgames.bitcoin.com)
 - [Satoshi Bones](https://bitzillions.com/satoshibones/bcc)
 - [Satoshi Dice](https://satoshidice.com)
 - [Betcoin](https://www.betcoin.ag/best-bitcoin-cash-casino)
@@ -179,6 +181,7 @@
 - [SporeStack](https://sporestack.com/) - Ephemeral-by-design, API-driven VPS infrastructure
 - [Shiny Leaf](https://www.shinyleaf.com/promotions/bitcoin-cash-payment/) - Natural bath & body products
 - [Afrigarments](https://afrigarments.com/) - African style clothing
+- [869GO](https://869go.com/) - Tickets, Tours, and Bookings
 
 # Community
 
@@ -198,6 +201,7 @@ A community sponsored initiative to promote Bitcoin Cash around the world. [Webs
 
 ### Twitter
 
+- [@Bitcoin](https://twitter.com/Bitcoin)
 - [Bitcoin Cash Fans](https://twitter.com/BitcoinCashFans)
 - [CryptoScatman](https://twitter.com/bsmith12251960)
 - [useBitcoinCash](https://twitter.com/useBitcoinCash)
